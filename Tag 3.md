@@ -18,7 +18,7 @@ löscht wie rm Dateien aber nur eine Einzige.
 
 ## Sudo
 
-Sudo rechte für benutzer anlegen.
+Su rechte für benutzer anlegen.
 
 als Root: EDITOR=vi visudo
 /root
