@@ -47,6 +47,9 @@ Parameter für chmod
 - g: Group
 - o: other
 
+
+|---U---|---G---|---O---|
+
 #### ausführen von dateien
 
 `chmod +x dateinamen` zum ausführbarkeit von dateien
