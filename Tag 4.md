@@ -86,3 +86,11 @@ Sorgt dafür das beim Ausführen eines Programmes, dies als Benutzer der zur Dat
 `LANG=de_DE vimtutor`
 
 ## Distribution
+
+Eine zusammenstellung von Paketen
+Distributoren Compilieren ein System und verteilen dies.
+
+- Slackware
+- Debian
+- SuSE
+- Red Hat
