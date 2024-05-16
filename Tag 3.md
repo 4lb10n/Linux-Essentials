@@ -48,7 +48,7 @@ Parameter für chmod
 - o: other
 
 
-|---U---|---G---|---O---|
+|U|G|O|
 
 #### ausführen von dateien
 
