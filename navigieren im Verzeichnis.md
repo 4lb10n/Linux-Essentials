@@ -1,3 +1,4 @@
+# Navigation im Verzeichnis
 
 * cd = Change Directory Verzeichnis wechsel
 
@@ -9,21 +10,21 @@ mkdir -p Uebung/{UV1,UV2,UV3}/{oen,two,three,four}
 
 * -p = kein Fehler, wenn vorhanden, übergeordnetes Verzeichnis nach Bedarf erstellen, mit Dateimodi, die nicht von der Option -m beeinflusst werden
 
-MYVAR=aha
+## Befehle
 
-pushd = geht ins verzeichnis und legt dieses in einen stack
+pushd = geht ins Verzeichnis und legt dieses in einen stack
 
-dirs -v zeigt uns die letzen besuchten besuchten pfade mit index
+dirs -v zeigt uns die letzten besuchten besuchten Pfade mit index
 
-pushd + 1 geht ins verzeichnis was auf postion 1 ist.
+pushd + 1 geht ins Verzeichnis was auf postion 1 ist.
 
-popd +1 nimmt das verzeichnis an position 1 aus dem stack0
+popd +1 nimmt das Verzeichnis an position 1 aus dem stack0
 
 -------------------------------------------------------
 
-touch änder den modifikator wert und wenn dadei noch nicht vorhanden ist wird dierses angelegt
+touch änder den Modifikator wert und wenn die Datei noch nicht vorhanden ist wird diese angelegt
 
-echo "inhalt" >"datei" legt denn inhalt in die datei
+echo "Inhalt" >"datei" legt denn Inhalt in die Datei
 
 1> = standart Kanal
 
@@ -35,19 +36,10 @@ cp datei1 datei2
 
 cp -a datei1 datei2
 
-cp datei1 ../three 	Datei nach folder Kopieren
+cp datei1 ../three  Datei nach folder Kopieren
 
-cp -i fragt ob du eine datei überschriebn möchtest
+cp -i fragt ob du eine datei überschreiben möchtest
 
-cp -r recursives Kopieren von ordnern
+cp -r rekursives Kopieren von Ordnern
 
-
------------------------------------------------------
-
-mv datei1 ../two/datei4		mv alte 
-
-
-----------------------------------------------------
-
-
-
+`mv datei1 ../two/datei4  mv alte`
