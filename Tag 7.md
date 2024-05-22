@@ -124,6 +124,6 @@ Zeigt wie bei Windows die laufenden Prozesse
 
 Beendet einen prozzes
 
-* pkill -HUP cat = 1 Hanup
+* pkill -1 cat =  Hanup
 * pkill -15 cat = Terminate
 * pkill -9  cat = Anschießen
