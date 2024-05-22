@@ -121,7 +121,7 @@ Zeigt wie bei Windows die laufenden Prozesse
 * pstree = zeigt einen Baum von prossessen
 
 ### kill
-
+kill -l listet alle Signale mit nummer auf.
 Beendet einen prozzes
 
 * pkill -1 cat =  Hanup
