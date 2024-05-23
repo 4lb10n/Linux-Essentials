@@ -3,7 +3,7 @@
 handleHup()
 
 {
-        echo "HJUP"
+        echo "HUP"
         exit 0
 }
 handleExit()
