@@ -3,13 +3,12 @@
 handleHup()
 
 {
-        echo "HUP"
-        exit 0
+        echo "HUP" >&2
 }
 handleExit()
 
 {
-        echo "EXIT"
+        echo "EXIT" >&2
 }
 
 trap handleHup 1
