@@ -4,6 +4,10 @@ Erstes Bash Script was einen Heartbeat signal sendet.
 
 [heartbeat.sh](/Scripte/heartbeat.sh)
 
+Erstellung eines Fun Scripts auf Basis des Heartbeat.
+
+[heartbeat_fun.sh](/Scripte/heartbeat_fun.sh)
+
 ## Hintergrundprozesse
 
 Prozesse im Hintergrund starten mit dem &
@@ -26,3 +30,9 @@ Listet alle laufenden hintergrund Jobs auf.
 `jobs`
 
 Strg - z = stop einen Vordergrundprozess und schiebt ihn in denn Hintergrund.
+
+## Strace
+
+mit Strace können wir programme überwachen.
+
+`strace -p ProzessID`
