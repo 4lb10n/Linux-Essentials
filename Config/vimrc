@@ -1,0 +1,11 @@
+" Zeilennummer einstellen
+set number
+
+" Mouse Unterstützung
+set mouse=a
+
+" Syntax Highlighting
+syntax on
+
+filetype on
+filetype indent on
