@@ -113,8 +113,8 @@ zfs und reiser4 sind out of tree, sprich nicht im Kernel
 - SSH zugriff
 - sudo für Benutzer
 - apache2
-- [php8.3]([https://](https://php.watch/articles/php-8.3-install-upgrade-on-debian-ubuntu#php83-debian-quick))
+- [php8.3](https://php.watch/articles/php-8.3-install-upgrade-on-debian-ubuntu#php83-debian-quick)
 
-- [mysql Erweiterung für php]([https://](https://www.namehero.com/blog/how-to-fix-the-your-php-installation-appears-to-be-missing-the-mysql-extension-which-is-required-by-wordpress-error/#3-1-install-the-php-mysql-extension-via-the-linux-command-line))
+- [mysql Erweiterung für php](https://www.namehero.com/blog/how-to-fix-the-your-php-installation-appears-to-be-missing-the-mysql-extension-which-is-required-by-wordpress-error/#3-1-install-the-php-mysql-extension-via-the-linux-command-line)
 
-- [WordPress]([https://](https://de.wordpress.org/latest-de_DE.zip))
+- [WordPress](https://de.wordpress.org/latest-de_DE.zip)
