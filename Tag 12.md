@@ -105,15 +105,16 @@ zfs und reiser4 sind out of tree, sprich nicht im Kernel
 
 ## Projekt
 
+### LAMP server auf Debian 12 Installieren
+
 - LVM einrichten
   - lv-root
   - lv-var
 - SSH zugriff
 - sudo für benutzer
 - apsche2
-- php8.3
-<https://www.namehero.com/blog/how-to-fix-the-your-php-installation-appears-to-be-missing-the-mysql-extension-which-is-required-by-wordpress-error/#3-1-install-the-php-mysql-extension-via-the-linux-command-line>
+- [php8.3]([https://](https://php.watch/articles/php-8.3-install-upgrade-on-debian-ubuntu#php83-debian-quick))
 
-<https://php.watch/articles/php-8.3-install-upgrade-on-debian-ubuntu#php83-debian-quick>
+- [mysql Erweiterung für php]([https://](https://www.namehero.com/blog/how-to-fix-the-your-php-installation-appears-to-be-missing-the-mysql-extension-which-is-required-by-wordpress-error/#3-1-install-the-php-mysql-extension-via-the-linux-command-line))
 
-- WordPress
+- [WordPress]([https://](https://de.wordpress.org/latest-de_DE.zip))
