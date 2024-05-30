@@ -1,1 +1,1 @@
-Scripts die hier gepostet werden sind nicht von mir. Scripts von mir werden Speziel geknzeichnet.
+Scripts die hier gepostet werden sind nicht von mir. Selbst geschriebene Scripts werden mit einem * Markiert.
