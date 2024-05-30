@@ -4,7 +4,7 @@
 apt update && upgrade
 
 # Installation von Basis tools
-apt install curl sudo vim
+apt install curl sudo vim unzip
 
 # Instalation von Webserver
 apt install apache2
