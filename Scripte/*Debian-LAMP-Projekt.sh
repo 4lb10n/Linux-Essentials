@@ -33,5 +33,6 @@ cd ~
 wget https://de.wordpress.org/latest-de_DE.zip
 unzip latest-de_DE.zip
 cp -r wordpress/* /var/www/html/
+rm /var/www/html/index.html
 cd /var/www/html/
 
