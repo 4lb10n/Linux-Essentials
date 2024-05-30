@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 #title           :LAMP-Debian-Projekt
 #description     :Dieses Script Autoamtisiert die ersten schitte für eine Wordpress installation
 #author		       :4lb10n
