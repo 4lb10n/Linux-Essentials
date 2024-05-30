@@ -1,13 +1,13 @@
 !/bin/bash
-#title           :LAMP-Debian-Projekt
-#description     :Dieses Script Autoamtisiert die ersten schitte für eine Wordpress installation
-#author		       :4lb10n
-#Createdate      :20240529
-#date            :20240530
-#version         :0.4    
-#usage		       :Debian-LAMP-Projekt.sh
-#notes           :Du musst dieses script als Root ausführen
-#bash_version    :5.2.15(1)-release
+#title:             LAMP-Debian-Projekt
+#description:       Dieses Script Autoamtisiert die ersten schitte für eine Wordpress installation
+#author:            4lb10n
+#createdate:        20240529
+#date:              20240530
+#version:           0.4    
+#usage:             Debian-LAMP-Projekt.sh
+#notes:             Du musst dieses script als Root ausführen
+#bash_version:      5.2.15(1)-release
 
 # System Aktuallisieren
 apt update && upgrade
