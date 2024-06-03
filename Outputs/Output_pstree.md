@@ -1,0 +1,19 @@
+systemd-+-ModemManager---2*[{ModemManager}]
+        |-agetty
+        |-cron
+        |-dbus-daemon
+        |-dhclient
+        |-exim4
+        |-htpdate
+        |-hv_fcopy_daemon
+        |-hv_kvp_daemon
+        |-hv_vss_daemon
+        |-login---bash---su---bash
+        |-polkitd---2*[{polkitd}]
+        |-sshd---sshd---sshd---bash---sudo---sudo---pstree
+        |-systemd---(sd-pam)
+        |-systemd-journal
+        |-systemd-logind
+        |-systemd-timesyn---{systemd-timesyn}
+        |-systemd-udevd
+        `-wpa_supplicant
