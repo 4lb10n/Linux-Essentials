@@ -4,3 +4,4 @@ Description=Demo Dienst - demonstriert einen ersten Dienst
 [Service]
 Type=oneshot
 ExecStart=echo "Hello form Demo Service"
+RemainAfterExit=true
