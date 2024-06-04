@@ -1,0 +1,14 @@
+[Unit]
+Description=Unser Custom Network Dienst
+Wants=network.target
+After=dbus.service network-pre.target
+Before=network.target network.service
+
+[Service]
+ExecStart=/usr/local/bin/net-setup
+ExecStop=/usr/local/bin/net-shutdown
+Type=oneshot
+RemainAfterExit=true
+
+[Install]
+WantedBy=multi-user.target
