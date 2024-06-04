@@ -1,0 +1,19 @@
+#!/bin/bash
+
+beatCount=0
+
+function handleHup() 
+{
+  beatCount=0
+}
+
+trap handleHup 1
+ 
+while true
+do
+  let beatCount++
+  echo Beat $beatCount
+  heartbeat
+  sleep 5
+done
+
