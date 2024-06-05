@@ -13,7 +13,7 @@ while true
 do
   let beatCount++
   echo Beat $beatCount
-  heartbeat
+  heartbeat iad
   sleep 5
 done
 
