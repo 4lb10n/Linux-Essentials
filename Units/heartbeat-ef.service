@@ -3,4 +3,4 @@ Description=Show Erfurt heartbeat
 
 [Service]
 Type=oneshot
-ExecStart=/usr/curl curl -X POST https://erfurt.heartbeat.sh/beat/dr.bauer >/dev/null 2>&1
+ExecStart=/usr/local/bin/heartbeat erfurt
