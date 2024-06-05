@@ -36,3 +36,5 @@ Wir schreiben einen Dienst der auf einen gewissen port lauscht.
 
 Dafür schreiben wir zwei Dateien und zwar einmal
 [hearbeat-ef.servic](./Units/heartbeat-ef.service)e und [heartbeat-ef.socket](./Units/heartbeat-ef.socket)
+
+! Nach jeder Änderung am Dienst muss ein sudo systemctl daemon-reload ausgeführt werden.
